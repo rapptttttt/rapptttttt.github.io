@@ -3,7 +3,8 @@
   <entry>
     <title>First Thing</title>
     <url>/2020/04/23/hello-world/</url>
-    <content><![CDATA[<p>欢迎来到PiggyParty，以后会在这里更新内容。</p>
+    <content><![CDATA[<h1 id="本网站的介绍"><a href="#本网站的介绍" class="headerlink" title="本网站的介绍"></a>本网站的介绍</h1><p><strong>这个网站是在hexo的基础上建造的，然后加了很多个人的东西，比如音乐、实时聊天、访客地图、评论。希望这是一个优秀的期末网页作业</strong></p>
+<p> <del>没钱买主机，所以部署在Github上，有点卡</del></p>
 ]]></content>
   </entry>
 </search>
